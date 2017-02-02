@@ -32,7 +32,7 @@
 					<div class="navbar-collapse collapse">
 						<div class="menu">
 							<ul class="nav nav-tabs" role="tablist">
-								<li role="presentation"><a href="index.html" class="active">Acceuil</a></li>
+								<li role="presentation"><a href="home.php" class="active">Acceuil</a></li>
 								<li role="presentation"><a href="about.html">A Propos</a></li>
 								<li role="presentation"><a href="services.html">L'équipe</a></li>
 								<li role="presentation"><a href="portfolio.html">Projets</a></li>
@@ -47,7 +47,7 @@
 	</header>
 
   <?php include($vueAAfficher); ?>
-  
+
   <footer>
 		<div class="footer">
 			<div class="container">
