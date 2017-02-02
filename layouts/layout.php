@@ -46,6 +46,8 @@
 		</nav>
 	</header>
 
+  <?php include($vueAAfficher); ?>
+  
   <footer>
 		<div class="footer">
 			<div class="container">
