@@ -55,7 +55,7 @@
 
 				<div class="col-md-4 col-md-offset-4">
 					<div class="copyright">
-						&copy; Company Theme. All Rights Reserved.
+						&copy; IT Start 2016-2017 all rigths reserved.
                         <div class="credits">
                             <!--
                                 All the links in the footer should remain intact.

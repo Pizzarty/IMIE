@@ -12,7 +12,7 @@
 	<div class="our-team">
 		<div class="container">
 		<div class="col-lg-12 text-center">
-			<h3>La Classe</h3>
+			<h3>La Promotion</h3>
 		</div>
 			<div class="text-center">
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
