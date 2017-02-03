@@ -110,7 +110,7 @@ a:hover {
 	font-weight:900;
 }
 .navbar-brand h1 span {
-	color: #1BBD36;
+	color: #5ebebd;
 }
 
 .menu {
@@ -138,7 +138,7 @@ a:hover {
 }
 
 .nav-tabs > li > a:hover {	
-	color: #1BBD36;
+	color: #5ebebd;
 	border-color: #fff #fff #fff;
 	border-radius:0;
 	background-color:#fff; 
@@ -148,7 +148,7 @@ a:hover {
 	-o-transition: all 0.3s ease-in-out;
 }
 .nav-tabs > li > a.active {
-	color: #1BBD36;
+	color: #5ebebd;
 	border-radius:0;
 	transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -173,32 +173,36 @@ a:hover {
   padding: 0;
 }
 
+
+
 #main-slider .carousel .carousel-content {
-  margin-top: 150px;
+  margin-top: 50px;
 }
 
 #main-slider .carousel .slide-margin{
-  margin-top: 140px;
+  margin-top: 80px;
 }
 
 #main-slider .carousel h2 {
-  color: #fff;
+  color: #000000;
   text-transform:uppercase;
   font-size:50px;
   font-weight:800;
 }
 
 #main-slider .carousel h2 span {
-  color: #1BBD36;
+  color: #01c9c7;
 }
 
 #main-slider .carousel h2 span spani {
   color: #000;
 }
 
-#main-slider .carousel p {
-  color: #ddd;
-  font-size:25px;
+#main-slider .carousel h3 {
+  color: black;
+
+  font-size:35px;
+  font-weight: bold;
 }
 
 #main-slider .carousel .btn-slide {
@@ -211,8 +215,7 @@ a:hover {
 }
 
 #main-slider .carousel .slider-img{
-  text-align: right;
-  position: absolute;
+
 }
 
 
@@ -226,7 +229,7 @@ a:hover {
   position: absolute;
   width: 100%;
   display: block !important;
-  height: 730px;
+  height: 550px;
   -webkit-transition: opacity ease-in-out 500ms;
   -moz-transition: opacity ease-in-out 500ms;
   -o-transition: opacity ease-in-out 500ms;
@@ -281,6 +284,16 @@ a:hover {
 
 .feature {
 	padding:50px;
+}
+
+.feature #Apropos h1{
+  color:#5ebebd;
+  font-weight: bold;
+}
+
+.feature img {
+  width:380px;
+  margin-top: 70px;
 }
 
 .text-center i {

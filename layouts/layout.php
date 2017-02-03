@@ -16,15 +16,15 @@
 							<span class="icon-bar"></span>
 						</button>
 						<div class="navbar-brand">
-							<a href="index.html"><h1><span>IM</span>IE</h1></a>
+							<a href="./index.html"><h1><span>IMIE</span> IT Start</h1></a>
 						</div>
 					</div>
 
 					<div class="navbar-collapse collapse">
 						<div class="menu">
 							<ul class="nav nav-tabs" role="tablist">
-								<li role="presentation"><a href="./index.php?action=home" class="active">Acceuil</a></li>
-								<li role="presentation"><a href="#Apropos">A Propos</a></li>
+								<li role="presentation"><a href="./index.php?action=home" class="active">Accueil</a></li>
+								<li role="presentation"><a href="./index.php?action=home?#Apropos">A Propos</a></li>
 								<li role="presentation"><a href="./index.php?action=equipe">L'équipe</a></li>
 								<li role="presentation"><a href="./index.php?action=projets">Projets</a></li>
 								<li role="presentation"><a href="./index.php?action=blog">Articles</a></li>
