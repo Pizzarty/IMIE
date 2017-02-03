@@ -37,7 +37,7 @@
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
 					<img src="./vendor/img/matheus.jpg" alt="" >
 					<h4>Matheus</h4>
-					<p>Debian Super Master</p>
+					<p>Super Debian Warrior</p>
 				</div>
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms">
 					<img src="./vendor/img/julien.jpg" alt="" >
@@ -61,7 +61,7 @@
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="2400ms">
 					<img src="./vendor/img/bastien.jpg" alt="" >
 					<h4>Bastien</h4>
-					<p>Petite Biche</p>
+					<p>Petite Biche Sacrée</p>
 				</div>
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="2700ms">
 					<img src="./vendor/img/marvin.jpg" alt="" >
@@ -91,7 +91,7 @@
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="3900ms">
 					<img src="./vendor/img/christopher.jpg" alt="" >
 					<h4>Christo</h4>
-					<p>hasagi au sel de mer </p>
+					<p>Hasagi au sel de mer </p>
 				</div>
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="4200ms">
 					<img src="./vendor/img/alexis.jpg" alt="" >
@@ -101,7 +101,7 @@
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="4500ms">
 					<img src="./vendor/img/simon.jpg" alt="" >
 					<h4>Simon</h4>
-					<p> Jean Simux</p>
+					<p>Jean Simux</p>
 				</div>
 
 
@@ -109,12 +109,12 @@
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="4800ms">
 					<img src="./vendor/img/kenny.jpg" alt="" >
 					<h4>Kenny</h4>
-					<p>Il ont tués Kenny</p>
+					<p>Il ont tué Kenny</p>
 				</div>
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="5100ms">
 					<img src="./vendor/img/matthieu.jpg" alt="" >
 					<h4>Matthieu</h4>
-					<p>fils de sauron alias bureautique salée</p>
+					<p>Fils de sauron alias bureautique salée</p>
 				</div>
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="5400ms">
 					<img src="./vendor/img/yvan.jpg" alt="" >
