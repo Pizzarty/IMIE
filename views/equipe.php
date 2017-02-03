@@ -1,3 +1,14 @@
+
+	
+	<div id="breadcrumb">
+		<div class="container">	
+			<div class="breadcrumb">							
+				<li><a href="index.html">Accueil</a></li>
+				<li>L'équipe</li>			
+			</div>		
+		</div>	
+	</div>
+	
 	<div class="our-team">
 		<div class="container">
 			<h3>La classe</h3>	
