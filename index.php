@@ -20,6 +20,10 @@ switch($action){
 		$vueAAfficher = "views/home.php";
 	break;
 
+	case"equipe":
+		$vueAAfficher = "views/equipe.php";
+	break;
+
 	default:
 		$vueAAfficher = "views/home.php";
 	break;
