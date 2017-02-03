@@ -8,7 +8,7 @@
 		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 			<div class="navigation">
 				<div class="container">
-					<div class="navbar-header">
+					<div id="navbar-header">
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse.collapse">
 							<span class="sr-only">Toggle navigation</span>
 							<span class="icon-bar"></span>
@@ -24,7 +24,7 @@
 						<div class="menu">
 							<ul class="nav nav-tabs" role="tablist">
 								<li role="presentation"><a href="./index.php?action=home" class="active">Acceuil</a></li>
-								<li role="presentation"><a href="#APropos">A Propos</a></li>
+								<li role="presentation"><a href="#Apropos">A Propos</a></li>
 								<li role="presentation"><a href="services.html">L'équipe</a></li>
 								<li role="presentation"><a href="portfolio.html">Projets</a></li>
 								<li role="presentation"><a href="blog.html">Articles</a></li>
@@ -70,7 +70,7 @@
 			</div>
 
 			<div class="pull-right">
-				<a href="#navbar-header" class="scrollup"><i class="fa fa-angle-up fa-3x"></i></a>
+				<a href="#" class="scrollup"><i class="fa fa-angle-up fa-3x"></i></a>
 			</div>
 		</div>
 	</footer>
