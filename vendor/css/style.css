@@ -138,18 +138,18 @@ a:hover {
 	padding:30px;
 }
 
-.nav-tabs > li > a:hover {	
+.nav-tabs > li > a.active:hover {	
 	color: #5ebebd;
 	border-color: #fff #fff #fff;
 	border-radius:0;
-	background-color:#fff; 
+	background-color:#f9f7f7; 
 	transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 }
 .nav-tabs > li > a.active {
-	color: #5ebebd;
+	color: black;
 	border-radius:0;
 	transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
