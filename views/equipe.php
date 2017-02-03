@@ -34,17 +34,17 @@
 
 			
 
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
 					<img src="./vendor/img/matheus.jpg" alt="" >
 					<h4>Matheus</h4>
 					<p>Debian Super Master</p>
 				</div>
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms">
 					<img src="./vendor/img/julien.jpg" alt="" >
 					<h4>Julien</h4>
 					<p>Dofus Cancer</p>
 				</div>
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1800ms">
 					<img src="./vendor/img/jean-francois.jpg" alt="" >
 					<h4>Jefweeey</h4>
 					<p>Jeff Samaaaaaaaaaaaaaaaaaa</p>
@@ -53,17 +53,17 @@
 
 
 		
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="2100ms">
 					<img src="./vendor/img/megane.jpg" alt="" >
 					<h4>Megane</h4>
 					<p>Laracroft  </p>
 				</div>
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="2400ms">
 					<img src="./vendor/img/bastien.jpg" alt="" >
 					<h4>Bastien</h4>
 					<p>Petite Biche</p>
 				</div>
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="2700ms">
 					<img src="./vendor/img/marvin.jpg" alt="" >
 					<h4>Marvin</h4>
 					<p>Jean Dev</p>
@@ -71,34 +71,34 @@
 
 
 
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="3000ms">
 					<img src="./vendor/img/florent.jpg" alt="" >
 					<h4>Florent</h4>
 					<p>Florence aprés 21h</p>
 				</div>
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="3300ms">
 					<img src="./vendor/img/matt.jpg" alt="" >
 					<h4>Matt</h4>
 					<p>Jean Black Mantis</p>
 				</div>
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="3600ms">
 					<img src="./vendor/img/pl.jpg" alt="" >
 					<h4>Pl</h4>
 					<p>Polak Nasdrovia</p>
 				</div>
 
 
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="3900ms">
 					<img src="./vendor/img/christopher.jpg" alt="" >
 					<h4>Christo</h4>
 					<p>hasagi au sel de mer </p>
 				</div>
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="4200ms">
 					<img src="./vendor/img/alexis.jpg" alt="" >
 					<h4>Alexis</h4>
 					<p>Calvitie précoce</p>
 				</div>
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="4500ms">
 					<img src="./vendor/img/simon.jpg" alt="" >
 					<h4>Simon</h4>
 					<p> Jean Simux</p>
@@ -106,24 +106,24 @@
 
 
 
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="4800ms">
 					<img src="./vendor/img/kenny.jpg" alt="" >
 					<h4>Kenny</h4>
 					<p>Il ont tués Kenny</p>
 				</div>
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="5100ms">
 					<img src="./vendor/img/matthieu.jpg" alt="" >
 					<h4>Matthieu</h4>
 					<p>fils de sauron alias bureautique salée</p>
 				</div>
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="5400ms">
 					<img src="./vendor/img/yvan.jpg" alt="" >
 					<h4>Yvan</h4>
 					<p>Yvan du sel</p>
 				</div>
 
 
-				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="5700ms">
 					<img src="./vendor/img/guillaume.jpg" alt="" >
 					<h4>Guillaume</h4>
 					<p>Gigs du 72</p>
