@@ -1,23 +1,23 @@
 <div id="breadcrumb">
-		<div class="container">	
-			<div class="breadcrumb">							
+		<div class="container">
+			<div class="breadcrumb">
 				<li><a href="./index.html">Accueil</a></li>
-				<li>Contact</li>			
-			</div>		
-		</div>	
+				<li>Contact</li>
+			</div>
+		</div>
 	</div>
-	
+
 	<div class="map">
 		<div id="google-map" data-latitude="47.994979" data-longitude="0.191227"></div>
 	</div>
 	
 	<section id="contact-page">
         <div class="container">
-            <div class="center">        
+            <div class="center">
                 <h2>Drop Your Message</h2>
                 <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div> 
-            <div class="row contact-wrap"> 
+            </div>
+            <div class="row contact-wrap">
                 <div class="status alert alert-success" style="display: none"></div>
                 <div class="col-md-6 col-md-offset-3">
                     <div id="sendmessage">Your message has been sent. Thank you!</div>
@@ -40,7 +40,7 @@
                                     <div class="validation"></div>
                             </div>
                         <div class="text-center"><button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Submit Message</button></div>
-                    </form>                       
+                    </form>
                 </div>
             </div><!--/.row-->
         </div><!--/.container-->
