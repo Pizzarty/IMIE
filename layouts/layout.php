@@ -25,10 +25,10 @@
 							<ul class="nav nav-tabs" role="tablist">
 								<li role="presentation"><a href="./index.php?action=home" class="active">Acceuil</a></li>
 								<li role="presentation"><a href="#Apropos">A Propos</a></li>
-								<li role="presentation"><a href="services.html">L'équipe</a></li>
-								<li role="presentation"><a href="portfolio.html">Projets</a></li>
-								<li role="presentation"><a href="blog.html">Articles</a></li>
-								<li role="presentation"><a href="contact.html">Contact</a></li>
+								<li role="presentation"><a href="./index.php?action=equipe">L'équipe</a></li>
+								<li role="presentation"><a href="./index.php?action=projets">Projets</a></li>
+								<li role="presentation"><a href="./index.php?action=blog">Articles</a></li>
+								<li role="presentation"><a href="./index.php?action=contact">Contact</a></li>
 							</ul>
 						</div>
 					</div>
