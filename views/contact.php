@@ -8,7 +8,7 @@
 	</div>
 	
 	<div class="map">
-		<div id="google-map" data-latitude="47.994979" data-longitude="0.191227"></div>
+		<img src="./vendor/img/plan.jpg">
 	</div>
 	
 	<section id="contact-page">
