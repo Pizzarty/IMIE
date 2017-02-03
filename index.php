@@ -28,6 +28,10 @@ switch($action){
 		$vueAAfficher = "views/projets.php";
 	break;
 
+	case"contact":
+		$vueAAfficher = "views/contact.php";
+	break;
+
 	default:
 		$vueAAfficher = "views/home.php";
 	break;
