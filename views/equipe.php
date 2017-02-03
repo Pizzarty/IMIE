@@ -1,18 +1,18 @@
 
-	
+
 	<div id="breadcrumb">
-		<div class="container">	
-			<div class="breadcrumb">							
+		<div class="container">
+			<div class="breadcrumb">
 				<li><a href="./index.html">Accueil</a></li>
-				<li>L'équipe</li>			
-			</div>		
-		</div>	
+				<li>L'équipe</li>
+			</div>
+		</div>
 	</div>
-	
+
 	<div class="our-team">
 		<div class="container">
 		<div class="col-lg-12 text-center">
-			<h3>La Classe</h3>	
+			<h3>La Classe</h3>
 		</div>
 			<div class="text-center">
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
@@ -30,9 +30,9 @@
 					<h4>Paul</h4>
 					<p>Hp Gaming Warrior</p>
 				</div>
-		
 
-			
+
+
 
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
 					<img src="./vendor/img/matheus.jpg" alt="" >
@@ -49,10 +49,10 @@
 					<h4>Jefweeey</h4>
 					<p>Jeff Samaaaaaaaaaaaaaaaaaa</p>
 				</div>
-			
 
 
-		
+
+
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="2100ms">
 					<img src="./vendor/img/megane.jpg" alt="" >
 					<h4>Megane</h4>
@@ -109,7 +109,7 @@
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="4800ms">
 					<img src="./vendor/img/kenny.jpg" alt="" >
 					<h4>Kenny</h4>
-					<p>Il ont tué Kenny</p>
+					<p>Ils ont tué Kenny</p>
 				</div>
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="5100ms">
 					<img src="./vendor/img/matthieu.jpg" alt="" >
@@ -126,9 +126,7 @@
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="5700ms">
 					<img src="./vendor/img/guillaume.jpg" alt="" >
 					<h4>Guillaume</h4>
-					<p>Gigs du 72</p>
+					<p>Guigs du 72</p>
 				</div>
 			</div>
 	</div>
-
-
