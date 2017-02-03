@@ -1,16 +1,7 @@
 <!DOCYTPE html>
 <html>
   <head>
-    <meta charset="utf8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>IMIE</title>
-    <!-- Bootstrap -->
-    <link href="vendor/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="vendor/css/font-awesome.min.css">
-    <link rel="stylesheet" href="vendor/css/animate.css">
-    <link href="vendor/css/prettyPhoto.css" rel="stylesheet">
-    <link href="vendor/css/style.css" rel="stylesheet" />
+<?php include_once("vendor/css/CSS.php"); ?>
   </head>
   <body>
 	<header>
@@ -32,8 +23,8 @@
 					<div class="navbar-collapse collapse">
 						<div class="menu">
 							<ul class="nav nav-tabs" role="tablist">
-								<li role="presentation"><a href="home.php" class="active">Acceuil</a></li>
-								<li role="presentation"><a href="about.html">A Propos</a></li>
+								<li role="presentation"><a href="./index.php?action=home" class="active">Acceuil</a></li>
+								<li role="presentation"><a href="#APropos">A Propos</a></li>
 								<li role="presentation"><a href="services.html">L'équipe</a></li>
 								<li role="presentation"><a href="portfolio.html">Projets</a></li>
 								<li role="presentation"><a href="blog.html">Articles</a></li>
@@ -45,9 +36,9 @@
 			</div>
 		</nav>
 	</header>
-
+<div id="contenu">
   <?php include($vueAAfficher); ?>
-
+ </div>
   <footer>
 		<div class="footer">
 			<div class="container">
@@ -79,7 +70,7 @@
 			</div>
 
 			<div class="pull-right">
-				<a href="#home" class="scrollup"><i class="fa fa-angle-up fa-3x"></i></a>
+				<a href="#navbar-header" class="scrollup"><i class="fa fa-angle-up fa-3x"></i></a>
 			</div>
 		</div>
 	</footer>
