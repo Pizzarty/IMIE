@@ -3,7 +3,7 @@
 	<div id="breadcrumb">
 		<div class="container">	
 			<div class="breadcrumb">							
-				<li><a href="index.html">Accueil</a></li>
+				<li><a href="./index.html">Accueil</a></li>
 				<li>L'équipe</li>			
 			</div>		
 		</div>	
