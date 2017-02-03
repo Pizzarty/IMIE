@@ -24,7 +24,7 @@
 						<div class="menu">
 							<ul class="nav nav-tabs" role="tablist">
 								<li role="presentation"><a href="./index.php?action=home" class="active">Accueil</a></li>
-								<li role="presentation"><a href="./index.php?action=home?#Apropos">A Propos</a></li>
+								<li role="presentation"><a href="./index.php?action=home#Apropos">A Propos</a></li>
 								<li role="presentation"><a href="./index.php?action=equipe">L'équipe</a></li>
 								<li role="presentation"><a href="./index.php?action=projets">Projets</a></li>
 								<li role="presentation"><a href="./index.php?action=blog">Articles</a></li>
