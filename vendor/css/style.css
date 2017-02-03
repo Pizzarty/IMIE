@@ -76,13 +76,13 @@ a:hover {
 }
 
 #breadcrumb {
-	background-color: #1BBD36;
+	background-color: #5ebebd;
 	margin-top: -20px;
 }
 
 .breadcrumb { 
   list-style: none;
-  background-color: #1BBD36;
+  background-color: #5ebebd;
   border-radius: 0px;
   padding:3px 10px;
 }
@@ -520,12 +520,13 @@ a:hover {
 
 .our-team {
 	padding:50px;
-	background:#ddd;
+	background:#f9f6f6;
 }
 
 .our-team h3 {
 	margin-bottom:30px;
-	font-weight:800;
+	font-weight:bold;
+  font-size: 40px;
 }
 
 .our-team h4 {
@@ -543,15 +544,17 @@ a:hover {
 	padding:50px;
 }
 
-.lates h2 {
-	font-size:20px;
-	font-weight:600;
-	color:#333;
+.lates h1 {
+
+	font-weight:bold;
+	color:#5ebebd;
 }
 
 .lates img {
 	margin-top:30px;
 	border-radius:5px;
+  width: 300px;
+  margin-left: 115px;
 }
 
 /* --- footer --- */
