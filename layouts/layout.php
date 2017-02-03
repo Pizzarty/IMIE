@@ -24,11 +24,11 @@
 						<div class="menu">
 							<ul class="nav nav-tabs" role="tablist">
 								<li role="presentation"><a href="./index.php?action=home" class="active">Accueil</a></li>
-								<li role="presentation"><a href="./index.php?action=home?#Apropos">A Propos</a></li>
-								<li role="presentation"><a href="./index.php?action=equipe">L'équipe</a></li>
-								<li role="presentation"><a href="./index.php?action=projets">Projets</a></li>
-								<li role="presentation"><a href="./index.php?action=blog">Articles</a></li>
-								<li role="presentation"><a href="./index.php?action=contact">Contact</a></li>
+								<li><a href="./index.php?action=home#Apropos" class="active">A Propos</a></li>
+								<li><a href="./index.php?action=equipe" class="active">L'équipe</a></li>
+								<li><a href="./index.php?action=projets" class="active">Projets</a></li>
+								<li><a href="./index.php?action=blog" class="active">Articles</a></li>
+								<li><a href="./index.php?action=contact" class="active">Contact</a></li>
 							</ul>
 						</div>
 					</div>
@@ -83,5 +83,6 @@
     <script src="./vendor/js/jquery.isotope.min.js"></script>
     <script src="./vendor/js/wow.min.js"></script>
     <script src="./vendor/js/functions.js"></script>
+    <script src="./vendor//js/jquery.scrollTo-2.1.2/jquery.scrollTo.min.js"></script>
   </body>
 </html>
