@@ -74,12 +74,12 @@
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="3000ms">
 					<img src="./vendor/img/florent.jpg" alt="" >
 					<h4>Florent</h4>
-					<p>Florence aprés 21h</p>
+					<p>L'homme qu panaché</p>
 				</div>
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="3300ms">
 					<img src="./vendor/img/matt.jpg" alt="" >
 					<h4>Matt</h4>
-					<p>Jean Black Mantis</p>
+					<p>Michel imberbe</p>
 				</div>
 				<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="3600ms">
 					<img src="./vendor/img/pl.jpg" alt="" >
