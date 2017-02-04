@@ -7,7 +7,7 @@
 		</div>
 	</div>
 
-<div id="map" style="width:100%;height:400px;background:yellow"></div>
+<div id="map" style="width:100%;height:400px"></div>
 
 <script>
 function myMap() {
