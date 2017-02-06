@@ -28,26 +28,26 @@ function myMap() {
         <div class="container">
             <div class="center">
                 <h2>Information</h2>
-                <p></p>
+                <p>Entre votre nom, votre email et choisissez votre formation pour avoir plus d'informations sur celle-ci.</p>
             </div>
             <div class="row contact-wrap">
                 <div class="status alert alert-success" style="display: none"></div>
                 <div class="col-md-6 col-md-offset-3">
-                    <div id="sendmessage">Your message has been sent. Thank you!</div>
+                    <div id="sendmessage">Les informations en <?php echo $info["formation"]?> on bien etait envoyer.</div>
                     <div id="errormessage"></div>
-                    <form action="" method="post" role="form" class="contactForm">
+                    <form action="contact-mail.php" method="post" >
                             <div class="form-group">
-                                    <input type="text" name="name" class="form-control" id="$name" placeholder="Votre nom" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                    <input type="text" name="name" class="form-control" placeholder="Votre nom"/>
                                     <div class="validation"></div>
                             </div>
                             <div class="form-group">
-                                    <input type="email" class="form-control" name="email" id="$email" placeholder="Votre email" data-rule="email" data-msg="Please enter a valid email" />
+                                    <input type="email" class="form-control" name="email" placeholder="Votre email"/>
                                     <div class="validation"></div>
                             </div>
 							<div class="form-group">
-									<select class="form-control" name="formation">
-										<option value="itstart">ItStart</option>
-										<option value="digital factory">Digital Factory</option>
+									<select class="form-control" name="selectFormation">
+										<option value="itStart">ItStart</option>
+										<option value="digitalFactory">Digital Factory</option>
 										<option value="btsSio">BTS SIO</option>
 										<option value="bachelorProdigital">Bachelor Prodigital</option>
 									</select>
